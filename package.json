@@ -1,0 +1,15 @@
+{
+  "name": "codeboost-gulp",
+  "version": "1.0.0",
+  "description": "Um projeto criado para o codeboost",
+  "exports": "./index.js",
+  "type": "module",
+  "author": "Felipe Frizzo ",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^9.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.71.1"
+  }
+}
